@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 ## A link to an article or website you find interesting related to software development/engineering
 
 [Software Engineering Projects - GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering-projects/)
